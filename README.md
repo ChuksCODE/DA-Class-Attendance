@@ -9,7 +9,7 @@
 - [Recommendations](Recommendations)
 
 ## Project Overview
-This DASHBOARD helps SkilHarvest understand their students better. It helps the tech organization know the gender distribution, location, occupation, marital status of their Data Analytics students. This offers them more insight in understanding the level of activeness of the students via the response time and also the range of age distribution and gender that occupies the class, thus since by using this report they have identified these insights, they can further work on factors responsible for the low level of activeness towards studies.
+This DASHBOARD project helps SkilHarvest understand their students better. It helps the tech organization know the gender distribution, location, occupation, marital status of their Data Analytics students. This offers them more insight in understanding the level of activeness of the students via the response time and also the range of age distribution and gender that occupies the class, thus since by using this report they have identified these insights, they can further work on factors responsible for the low level of activeness towards studies.
 
 ## Data Source
 - Primary Source: [Google form](https://bit.ly/SkilHarvestClassData)
