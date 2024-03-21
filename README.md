@@ -40,8 +40,11 @@ The data was cleaned by removing duplicates from students who filled the form tw
   - What geographical location or country produced more students in the class?
 
 
-## Results/Findings
+## Results/Findings                                          
 
+                                                                            
+![](viz_page1 (1).jpg)
+                 
 Insights from the SkilHarvest Interns Demographics
 
 - The number of students who responded to the survey are 44.
