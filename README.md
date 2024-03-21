@@ -42,8 +42,6 @@ The data was cleaned by removing duplicates from students who filled the form tw
 
 ## Results/Findings
 
-![](vizpage1.jpg)
-
 Insights from the SkilHarvest Interns Demographics
 
 - The number of students who responded to the survey are 44.
