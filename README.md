@@ -10,27 +10,36 @@
 - [Recommendations](Recommendations)
 
 ## Project Overview
+---
+
 This Visualization Report project is a study of the demographics of the Data Analysis students at the ongoing SkilHarvest Cohort 2 program. It examines the gender, marital status, age, occupation and their country of residence. This report is helpful to gain better insights into the identifiable variables of their students.
 
 ## Data Source
+---
+
 - Primary Source: [Google form](https://bit.ly/SkilHarvestClassData)
 - Imported: [Spreadsheet]()
 - file format: xlsx
 
 
 ## Tools Used
+---
+
 - MS Excel for Data Cleaning [Download Here](https://www.microsoft.com)
 - SQL Server (for querying and analysis)
 - Power BI (for reporting and visualization)
 - Power Point (for presentation)
 
 ## Data Cleaning and Preparation
+---
 
 The data was cleaned by removing duplicates from students who filled the form twice and blanks removed.
 
 
 ## Data Analysis
-  EDA involved exploring the data to answer some questions such as:
+---
+
+EDA involved exploring the data to answer some questions such as:
   - What is the total number of students?
   - What is the most gender type in the DA Class?
   - What educational qualifications ranks most among the students?
@@ -41,11 +50,11 @@ The data was cleaned by removing duplicates from students who filled the form tw
 
 
 ## Results/Findings
-
+---
 
 ![](viz_result.png)
                  
-Insights from the SkilHarvest Interns Demographics
+Insights from the SkilHarvest Interns Demographics shows the following:
 
 - The number of students who responded to the survey are 44.
 - There were more males than females in the Data Analysis class
@@ -64,5 +73,5 @@ Here are some recommendations from the analysis
 
 - Age-Appropriate activities based on age groups can be explored and created. For instance, the 25-29 age group can focus on skill development and career advancement. The 30-34 age group should be encouraged to network and collaborate while for those above the age of 35, opportunities for leadership roles and knowledge sharing should be provided.
 
-Occupational growth: SkilHarvest can identify interns' career aspirations and align them with relevant projects or tasks. Also, offering job placements for outstanding students would go a long way in promoting SkilHarvest especially on the international job market.
+- Occupational growth: SkilHarvest can identify interns' career aspirations and align them with relevant projects or tasks. Also, offering job placements for outstanding students would go a long way in promoting SkilHarvest especially on the international job market.
 
