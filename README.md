@@ -42,7 +42,7 @@ The data was cleaned by removing duplicates from students who filled the form tw
 
 ## Results/Findings
 
-![]()
+![](DATA GENIUSES ASSIGNMENT[1]_page-0001.jpg)
 
 Insights from the SkilHarvest Interns Demographics
 
